@@ -13,7 +13,7 @@ This repo is home base for my learning-in-public journey. I’m working my way i
 
 | 🔗 Project | 💬 Description |
 |-----------|----------------|
-| [Active Directory Lab](https://github.com/learnbuilddeploylabs/active-directory-lab) | A full walkthrough for building a home AD environment from scratch using VMware Workstation Pro |
+| [Active Directory Home Lab](https://github.com/learnbuilddeploylabs/active-directory-home-lab) | A full walkthrough for building a home AD environment from scratch using VMware Workstation Pro |
 
 More coming soon: Wireshark, Splunk, and Nmap labs.
 
