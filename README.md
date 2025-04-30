@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Welcome to Learn. Build. Deploy.
 
-<!--
-**learnbuilddeploylabs/learnbuilddeploylabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m building cybersecurity and IT labs from scratch — one virtual machine at a time.
 
-Here are some ideas to get you started:
+This repo is home base for my learning-in-public journey. I’m working my way into the cybersecurity and IT world by:
+- 🔧 Building real-world home labs
+- 📹 Sharing tutorials and walkthroughs on YouTube (soon!)
+- 💻 Creating resources for new learners, career changers, and lab nerds like me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+| 🔗 Project | 💬 Description |
+|-----------|----------------|
+| [Active Directory Lab](https://github.com/learnbuilddeploylabs/active-directory-lab) | A full walkthrough for building a home AD environment from scratch using VMware Workstation Pro |
+
+More coming soon: Wireshark, Splunk, and Nmap labs.
+
+---
+
+## ☕ Support & Contact
+
+If this stuff helps you out or makes your life easier:
+- [Buy Me a Coffee](https://buymeacoffee.com/learnbuilddeploy)
+- Say hi: learnbuilddeploylabs@gmail.com
+
+---
+
+> **Learn in public. Build with intention. Deploy for the future.**
