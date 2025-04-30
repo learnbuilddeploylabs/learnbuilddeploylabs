@@ -22,7 +22,7 @@ More coming soon: Wireshark, Splunk, and Nmap labs.
 ## ☕ Support & Contact
 
 If this stuff helps you out or makes your life easier:
-- [Buy Me a Coffee](https://buymeacoffee.com/learnbuilddeploy)
+- [Buy Me a Coffee ☕](https://buymeacoffee.com/learnbuilddeploy)
 - Say hi: learnbuilddeploylabs@gmail.com
 
 ---
