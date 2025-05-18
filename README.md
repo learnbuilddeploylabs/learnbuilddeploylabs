@@ -1,6 +1,6 @@
 # 👋 Welcome to Learn. Build. Deploy.
 
-I’m building IT and cybersecurity labs from scratch — and documenting everything as I go.
+Hey! I’m **Rob Merrill** — a self-taught, career-changing lab nerd building IT and cybersecurity labs from scratch and documenting everything as I go.
 
 This repo is home base for my learning-in-public journey. I’m breaking into the tech world by:
 
@@ -26,12 +26,12 @@ If this project helped you out or made your life easier:
 
 - [Buy Me a Coffee ☕](https://buymeacoffee.com/learnbuilddeploy)  
 - 📺 [Subscribe on YouTube](https://youtube.com/@learnbuilddeploy)  
-- 📬 Say hi: learnbuilddeploylabs@gmail.com
+- 📬 Say hi: **Rob Merrill** at learnbuilddeploylabs@gmail.com
 
 If this project confused you or made your life way harder than it needed to be:
 - [Buy Me a Coffee ☕](https://buymeacoffee.com/learnbuilddeploy)  
 - 📺 [Subscribe on YouTube](https://youtube.com/@learnbuilddeploy)  
-- 📬 Say hi: learnbuilddeploylabs@gmail.com
+- 📬 Say hi: **Rob Merrill** at learnbuilddeploylabs@gmail.com
 
 😉
 
@@ -45,4 +45,5 @@ More labs and walkthroughs are in the works!
 
 If you’re learning, tinkering, or career changing — welcome. You're in the right place.
 
-> **Learn in public. Build with intention. Deploy for the future.**
+> **Learn in public. Build with intention. Deploy for the future.**  
+> — **Rob Merrill // Learn. Build. Deploy.**
