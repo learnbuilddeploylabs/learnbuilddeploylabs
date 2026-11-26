@@ -15,6 +15,7 @@ This repo is home base for my learning-in-public journey. I’m breaking into th
 |-----------|----------------|
 | [Active Directory Home Lab](https://github.com/learnbuilddeploylabs/active-directory-home-lab) | A full walkthrough for building a home AD environment from scratch using VMware Workstation Pro |
 | [Final Fantasy X Al Bhed Translator](https://github.com/learnbuilddeploylabs/ffx-albhed-translator) | A simple command-line application for translating Al Bhed. Code FULLY commented  |
+| [My Little Library](https://github.com/learnbuilddeploylabs/my-little-library) | A simple command-line library builder to keep track of your books! Code also commented |
 
 More stuff coming soon!
 
